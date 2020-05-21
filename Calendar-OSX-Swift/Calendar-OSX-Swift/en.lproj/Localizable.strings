@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  macOS Calendar like DatePicker
+
+  Created by 桃源老師 on 2020/05/08.
+  Copyright © 2020 Celmaro. All rights reserved.
+*/
+
+/* locale */
+"en" = "en";
+
+/* localeSuffix */
+"Year" = "Year";
