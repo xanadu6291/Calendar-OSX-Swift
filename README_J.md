@@ -1,3 +1,5 @@
+[English](README.md)
+
 # Calendar-OSX-Swift
 
 これは [Gyetván András](https://github.com/gyetvan-andras)さんのObjective-Cで書かれたリポジトリ [Calendar-OSX](https://github.com/gyetvan-andras/Calendar-OSX)のSwift変換版です。
