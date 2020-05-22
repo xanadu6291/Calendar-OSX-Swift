@@ -78,6 +78,7 @@
 				E95609972476D4190062F4F6 /* SetTitle.swift */,
 				E9D398442469B87300F0EFC3 /* Assets.xcassets */,
 				E9D398462469B87300F0EFC3 /* Main.storyboard */,
+				E9D39858246D0D3C00F0EFC3 /* CalendarTemplate.png */,
 				E9D398492469B87300F0EFC3 /* Info.plist */,
 				E9D3984A2469B87300F0EFC3 /* Calendar_OSX_Swift.entitlements */,
 			);
@@ -92,7 +93,6 @@
 				E9D39854246A7A6800F0EFC3 /* MLCalendarView.swift */,
 				E9EF15C42474F77A00D89DA9 /* CalculateCalendarLogic.swift */,
 				E9D39856246A82DD00F0EFC3 /* MLCalendarView.xib */,
-				E9D39858246D0D3C00F0EFC3 /* CalendarTemplate.png */,
 			);
 			path = MLCalendar;
 			sourceTree = "<group>";
