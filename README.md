@@ -1,3 +1,5 @@
+[Japanese](README_J.md)
+
 # Calendar-OSX-Swift
 
 This is a Swift conversion of  [Gyetván András](https://github.com/gyetvan-andras)'s repository [Calendar-OSX](https://github.com/gyetvan-andras/Calendar-OSX) which is written in Objective-C.
