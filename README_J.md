@@ -57,4 +57,4 @@
 
 ## サンプルアプリケーション
 
-Xcodeは、[オリジナル](https://github.com/gyetvan-andras/Calendar-OSX)同様、**NSPopover**,を用いた **Calendar-OSX-Swift**のサンプルです。
+Xcodeプロジェクトは、[オリジナル](https://github.com/gyetvan-andras/Calendar-OSX)同様、**NSPopover**,を用いた **Calendar-OSX-Swift**のサンプルです。
