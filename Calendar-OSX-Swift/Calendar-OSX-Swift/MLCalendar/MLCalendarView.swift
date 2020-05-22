@@ -172,13 +172,13 @@ class MLCalendarView: NSViewController {
         //layoutCalendar()
     }
     // Connect view with id
-    func viewByID(_id:NSString)->AnyObject {
+    func viewByID(_id:NSString)->AnyObject? {
         for subview:NSView in self.view.subviews {
             if (subview.identifier == _id as NSUserInterfaceItemIdentifier) {
                 return subview
             }
         }
-        return "" as AnyObject
+        return nil
     }
     // Set Calendar title
     // This is setter method of Objective-C which called based on property change.
