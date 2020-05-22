@@ -28,9 +28,7 @@ Here, I describe the difference between [original](https://github.com/gyetvan-an
 Usage is same as [original](https://github.com/gyetvan-andras/Calendar-OSX). In Summary:
 
 1. Copy all the files in the MLCalendar group to your project.
-
 2. MLCalendarView is subclass of NSViewController which can be used as any other view.
-
 3. You can change the default colors used by the calendar by the properties as follows:
 
    ```swift
@@ -42,7 +40,6 @@ Usage is same as [original](https://github.com/gyetvan-andras/Calendar-OSX). In 
    var todayMarkerColor: NSColor?
    var dayMarkerColor: NSColor
    ```
-
 4. Off cource, **Calendar-OSX-Swift** have delegate same as  [original](https://github.com/gyetvan-andras/Calendar-OSX).
 
    ```swift
@@ -50,10 +47,8 @@ Usage is same as [original](https://github.com/gyetvan-andras/Calendar-OSX). In 
        func didSelectDate(selectedDate: Date)
    }
    ```
-
 ***
 
 ## Sample Application
 
 The Xcode project is sample of **Calendar-OSX-Swift** using **NSPopover**, same as [original](https://github.com/gyetvan-andras/Calendar-OSX).
-
