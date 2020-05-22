@@ -1,4 +1,4 @@
-[English](README.md)
+[Japanese][[English](README.md)]
 
 # Calendar-OSX-Swift
 
