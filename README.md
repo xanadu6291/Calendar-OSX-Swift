@@ -6,9 +6,9 @@ This is a Swift conversion of  [Gyetván András](https://github.com/gyetvan-and
 
 <img width="480" alt="light_mode" src="https://user-images.githubusercontent.com/13963864/82581769-06ec3b00-9bcc-11ea-9bcd-f4c76427b75a.png">
 
-## Description
-
 ***
+
+## Description
 
 Basic function is same as [original](https://github.com/gyetvan-andras/Calendar-OSX).
 
